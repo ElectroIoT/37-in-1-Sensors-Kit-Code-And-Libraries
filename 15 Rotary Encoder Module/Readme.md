@@ -76,3 +76,11 @@ void loop() {
         delay(200); // Debounce delay
     }
 }
+
+
+## 🔗 Connect with Me
+[🌐 Website](https://electroiot.in)  
+[✉️ Email](mailto:electroiot@hotmail.com)  
+[📺 YouTube](https://www.youtube.com/@ElectroIoT-IN)  
+[🔬 Hackster.io](https://www.hackster.io/Manoranjan2050)  
+[📖 Instructables](https://www.instructables.com/member/ElectroIoTIN)  
