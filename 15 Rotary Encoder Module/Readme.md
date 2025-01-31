@@ -3,6 +3,13 @@
 This project demonstrates how to use a **rotary encoder (KY-040)** with an **Arduino** to detect rotation direction and button presses. The output is displayed in the **Serial Monitor**.  
 
 ---
+## 🔗 Connect with Me
+[🌐 Website](https://electroiot.in)  
+[✉️ Email](mailto:electroiot@hotmail.com)  
+[📺 YouTube](https://www.youtube.com/@ElectroIoT-IN)  
+[🔬 Hackster.io](https://www.hackster.io/Manoranjan2050)  
+[📖 Instructables](https://www.instructables.com/member/ElectroIoTIN)  
+
 
 ## 📌 What is a Rotary Encoder?  
 
@@ -76,11 +83,3 @@ void loop() {
         delay(200); // Debounce delay
     }
 }
-
-
-## 🔗 Connect with Me
-[🌐 Website](https://electroiot.in)  
-[✉️ Email](mailto:electroiot@hotmail.com)  
-[📺 YouTube](https://www.youtube.com/@ElectroIoT-IN)  
-[🔬 Hackster.io](https://www.hackster.io/Manoranjan2050)  
-[📖 Instructables](https://www.instructables.com/member/ElectroIoTIN)  
