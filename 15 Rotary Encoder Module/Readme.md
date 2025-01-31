@@ -31,6 +31,11 @@ A **rotary encoder** is an electro-mechanical device that converts rotational mo
 | **Jumper Wires**   | 5 |
 
 ---
+### 🖼 Schematic Diagram  
+
+![Rotary Encoder Schematic](schematic.JPG) *(Replace with your image link)*  
+
+---
 
 ## 📡 Connection Details  
 
