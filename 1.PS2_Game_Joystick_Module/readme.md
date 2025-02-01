@@ -37,7 +37,7 @@ The **PS2 Game Joystick Module (KY-023)** is an **analog joystick** similar to t
 
 ### 🖼 Schematic Diagram  
 
-![PS2 Joystick Schematic](https://user-images.githubusercontent.com/your-image-url.png) *(Replace with your image link)*  
+![PS2 Joystick Schematic](schematic.JPG) *(Replace with your image link)*  
 
 ---
 
